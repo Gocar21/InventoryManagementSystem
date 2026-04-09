@@ -5,12 +5,6 @@ CLI-based Inventory Management System built with C# .NET Console App.
 1. Open `InventoryManagementSystem.csproj` in Visual Studio
 2. Press `F5`
 
-## Login
-| Username | Password | Role  |
-|----------|----------|-------|
-| admin    | admin123 | Admin |
-| staff1   | staff123 | Staff |
-
 ## Features
 - Categories and Suppliers management
 - Add, View, Search, Edit, Remove Products
